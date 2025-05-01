@@ -1,0 +1,66 @@
+[
+ 
+  {
+    "id": 2,
+    "name": "Conference",
+    "description": "Annual PSA national conference covering statistical innovations.",
+    "date": "2025-06-01",
+    "likes": 20
+  },
+  {
+    "id": 3,
+    "name": "Workshop",
+    "description": "Hands-on training on data visualization tools.",
+    "date": "2025-06-05",
+    "likes": 4
+  },
+  {
+    "id": 4,
+    "name": "Team Building",
+    "description": "Outdoor activities to strengthen team collaboration.",
+    "date": "2025-06-15",
+    "likes": 7
+  },
+  {
+    "id": 5,
+    "name": "Training",
+    "description": "Capacity-building session for new employees.",
+    "date": "2025-06-20",
+    "likes": 45
+  },
+  {
+    "id": 6,
+    "name": "Meeting",
+    "description": "Monthly division meeting to discuss progress and plans.",
+    "date": "2025-06-25",
+    "likes": 12
+  },
+  {
+    "id": 7,
+    "name": "Webinar",
+    "description": "Online seminar on statistical data standards.",
+    "date": "2025-07-01",
+    "likes": 0
+  },
+  {
+    "id": 8,
+    "name": "Outreach",
+    "description": "Community outreach program for statistical awareness.",
+    "date": "2025-07-10",
+    "likes": 0
+  },
+  {
+    "id": 9,
+    "name": "Orientation",
+    "description": "Orientation for newly hired PSA staff.",
+    "date": "2025-07-15",
+    "likes": 0
+  },
+  {
+    "id": 10,
+    "name": "Evaluation",
+    "description": "Year-end performance evaluation session.",
+    "date": "2025-07-20",
+    "likes": 0
+  }
+]
